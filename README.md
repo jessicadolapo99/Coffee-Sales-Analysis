@@ -17,5 +17,13 @@ https://github.com/jessicadolapo99/Coffee-Sales-Analysis/blob/main/Coffee%20sale
 - Segmented sales by country, coffee variety, and roast type for detailed insights.
 - Analyzed customer behavior, including purchase frequency and loyalty card usage.
 - Built an interactive dashboard in Excel to showcase key metrics:
-## Dashboard interaction <a bref="
+## Dashboard interaction <a bref="https://github.com/jessicadolapo99/Coffee-Sales-Analysis/blob/main/Screenshot.c%202025-01-20%20135325.png"> View Dashboard</u>
+## Project Insight
+### Project Insights
+Sales trends revealed consistent growth over the years, with a notable peak in 2022, highlighting a surge in demand for coffee products. Among the coffee varieties, Liberica stood out as the top-selling option, reflecting its popularity among customers. 
+Geographically, the United States emerged as the leading market, followed by Ireland and the united kingdom, reinforcing its dominance in sales contributions. Customer preferences showed that light roast was the most favored option in 2019, while the 0.5kg and 1.0kg package sizes were the most commonly purchased, offering a balance between affordability and convenience. 
+The analysis also underscored the effectiveness of the loyalty program, with loyalty card holders displaying higher average purchase values compared to non-loyalty customers. Additionally, high-value customers were identified offering opportunities for targeted retention and personalized engagement strategies. 
+## Conclusion
+This dashboard offers a detailed analysis of coffee sales performance, emphasizing strategic opportunities for growth. Key recommendations include prioritizing the promotion of Arabica and Medium roast varieties in the U.S, strengthening loyalty programs to improve customer retention and drive revenue, and focusing marketing efforts on the popular 0.5kg and 1.0kg coffee sizes to optimize sales.
+
 
