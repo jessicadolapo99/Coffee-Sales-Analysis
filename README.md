@@ -18,7 +18,7 @@ The dataset used can be found and downloaded in this repository
 - Analyzed customer behavior, including purchase frequency and loyalty card usage.
 - Built an interactive dashboard in Excel to showcase key metrics:
 ## Dashboard interaction
-<a bref="https://github.com/jessicadolapo99/Coffee-Sales-Analysis/blob/main/Screenshot.c%202025-01-20%20135325.png">View Dashboard</u>
+![Screenshot c 2025-01-20 135325](https://github.com/user-attachments/assets/ad76222f-2876-47c0-8e7f-c5ea968078fd)
 ## Project Insight
 ### Project Insights
 Sales trends revealed consistent growth over the years, with a notable peak in 2022, highlighting a surge in demand for coffee products. Among the coffee varieties, Liberica stood out as the top-selling option, reflecting its popularity among customers. 
