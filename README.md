@@ -17,7 +17,8 @@ The dataset used can be found and downloaded in this repository
 - Segmented sales by country, coffee variety, and roast type for detailed insights.
 - Analyzed customer behavior, including purchase frequency and loyalty card usage.
 - Built an interactive dashboard in Excel to showcase key metrics:
-## Dashboard interaction <a bref="https://github.com/jessicadolapo99/Coffee-Sales-Analysis/blob/main/Screenshot.c%202025-01-20%20135325.png"> View Dashboard</u>
+## Dashboard interaction
+<a bref="https://github.com/jessicadolapo99/Coffee-Sales-Analysis/blob/main/Screenshot.c%202025-01-20%20135325.png"> View Dashboard</u>
 ## Project Insight
 ### Project Insights
 Sales trends revealed consistent growth over the years, with a notable peak in 2022, highlighting a surge in demand for coffee products. Among the coffee varieties, Liberica stood out as the top-selling option, reflecting its popularity among customers. 
